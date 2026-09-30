@@ -1,0 +1,58 @@
+{
+  ".env.example": {
+    "sha256": "f1ae63c50383a00b936c117165d2bae0a69bf2896a864a886ae873be92a39608",
+    "bytes": 201
+  },
+  "DEPENDENCY_LOCK.md": {
+    "sha256": "397c03f33aa1873ac358a91baa4b3e5359cb3357ba109b1bc9713977356b6858",
+    "bytes": 1740
+  },
+  "README.md": {
+    "sha256": "1873d10080e89aaddb4dff85641a2069125dce7680ff2c790f47b536a15b2336",
+    "bytes": 1997
+  },
+  "install_locked.ps1": {
+    "sha256": "754d2c3e5a498a7b1c12583b9efe71ae4ea396613fc3f8c540aaeafaa2561a7a",
+    "bytes": 137
+  },
+  "install_locked.sh": {
+    "sha256": "a38032509d26082304a90cb5c3d03eca42dbac62b4416f88b16135a05d15a20f",
+    "bytes": 129
+  },
+  "network_schema.sql": {
+    "sha256": "dc314fb47f51af34b592ae838509ad42dbc94df6eb0946ce5896f643305a75a6",
+    "bytes": 890
+  },
+  "quantum_network_hyperconsole_v8.py": {
+    "sha256": "e4d1cb0f94220fdacf30146669077c908472f553e083bc453c340898d7e7e437",
+    "bytes": 271952
+  },
+  "requirements-datasets.lock.txt": {
+    "sha256": "8ef2331ff615d0b468931fae916c86a6c2b9a6553af1989c4869599803db3cad",
+    "bytes": 50
+  },
+  "requirements-datasets.txt": {
+    "sha256": "8ef2331ff615d0b468931fae916c86a6c2b9a6553af1989c4869599803db3cad",
+    "bytes": 50
+  },
+  "requirements-legacy-ggml.txt": {
+    "sha256": "991011167a1c90d9fa839b058f5a78e2b129e87e3c364590844ec61b0888caf2",
+    "bytes": 113
+  },
+  "requirements.lock.txt": {
+    "sha256": "3551d8b2e3bee4ce5090215775c061262247f0ed4ad2162be22a21a0de9d2e40",
+    "bytes": 284
+  },
+  "requirements.txt": {
+    "sha256": "3551d8b2e3bee4ce5090215775c061262247f0ed4ad2162be22a21a0de9d2e40",
+    "bytes": 284
+  },
+  "run.ps1": {
+    "sha256": "f287c80f0132120724ff903eb676cc52664db56be7650ef69065768f0830168c",
+    "bytes": 82
+  },
+  "run.sh": {
+    "sha256": "722edb7019ab01c05026c77b6e32ccbd749b8e47645d3fc6e90c28aeaf06a926",
+    "bytes": 78
+  }
+}

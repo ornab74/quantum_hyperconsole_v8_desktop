@@ -1,0 +1,3 @@
+# Historical GGMLv3 compatibility only.
+# Keep isolated from the modern ML environment.
+llama-cpp-python==0.1.78

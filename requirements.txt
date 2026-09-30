@@ -1,0 +1,13 @@
+# Security-reviewed direct dependency lock — 2026-09-29
+# Python 3.11 / 3.12 baseline.
+customtkinter==5.2.2
+aiosqlite==0.22.1
+httpx==0.28.1
+numpy==2.4.6
+pennylane==0.45.1
+matplotlib==3.11.2
+psutil==7.2.2
+weaviate-client==4.23.1
+torch==2.14.0
+transformers==5.17.0
+safetensors==0.8.0
